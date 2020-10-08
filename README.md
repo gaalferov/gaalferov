@@ -25,12 +25,12 @@
 
 ### About Me
 
-💻 Software developer with 7+ years’ experience in web development.
+Software developer with 7+ years’ experience in web development.
 I have a first-class degree in computer science and a passion for programming and software safety.
 My primary area of expertise is planning and building PHP&JS applications of different complexity.
 
-- 👨‍All of my projects are available  [here](https://github.com/gaalferov?tab=repositories)
-- 📫 How to reach me **a@gaalferov.com**
+- 👨‍ All of my projects are available  [here](https://github.com/gaalferov?tab=repositories)
+- 📫  How to reach me **a@gaalferov.com**
 
 ### Frequently Used Languages and Tools 
 
