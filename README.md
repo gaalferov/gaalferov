@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Hi, I'm Hennadii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <h1> Hi, I'm Hennadii</h1>
 </div>
 
 <br>
@@ -20,22 +20,23 @@
 <br>
 
 <div align="center">
-<h3>💻 Full-Stack Developer | 🌏 Lviv, Ukraine </h3>
+<h3>💻 Sr. Software Enginneer [php/js] | 🌏 Ukraine </h3>
 </div>
 
 ### About Me
 
-Software developer with 7+ years’ experience in web development.
+Software developer with 8+ years’ experience in web development.
 I have a first-class degree in computer science and a passion for programming and software safety.
 My primary area of expertise is planning and building PHP&JS applications of different complexity.
 
-- 👨‍ All of my projects are available  [here](https://github.com/gaalferov?tab=repositories)
+- 👨‍ All of my public projects are available  [here](https://github.com/gaalferov?tab=repositories)
 - 📫  How to reach me **a@gaalferov.com**
 
 ### Frequently Used Languages and Tools 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
