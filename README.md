@@ -30,6 +30,7 @@ I have a first-class degree in computer science and a passion for programming an
 My primary area of expertise is planning and building PHP&JS applications of different complexity.
 
 - 👨‍ All of my public projects are available  [here](https://github.com/gaalferov?tab=repositories)
+- 💾 GIST [here](https://gist.github.com/gaalferov)
 - 📫  How to reach me **a@gaalferov.com**
 
 ### Frequently Used Languages and Tools 
