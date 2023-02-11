@@ -25,7 +25,7 @@
 
 ### About Me
 
-Software developer with 8+ years’ experience in web development.
+Software developer with 10+ years’ experience in web development.
 I have a first-class degree in computer science and a passion for programming and software safety.
 My primary area of expertise is planning and building PHP&JS applications of different complexity.
 
