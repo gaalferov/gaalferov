@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-<h3>💻 Sr. Software Enginneer [php/js] | 🌏 Ukraine </h3>
+<h3>💻 Tech Lead | Senior Software Engineer [php/js] in 🌏 Poland&Ukraine </h3>
 </div>
 
 ### About Me
