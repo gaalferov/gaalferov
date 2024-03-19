@@ -47,8 +47,6 @@ My primary area of expertise is planning and building PHP&JS applications of dif
 
 <br>
 
-![Hennadii's github stats](https://github-readme-stats.vercel.app/api?username=gaalferov&count_private=true&include_all_commits=true&show_icons=true&theme=default)
-
 [![Hennadii Alforov profile views](https://u8views.com/api/v1/github/profiles/3623222/views/day-week-month-total-count.svg)](https://u8views.com/github/gaalferov)
 
 
