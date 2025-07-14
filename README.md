@@ -20,14 +20,14 @@
 <br>
 
 <div align="center">
-<h3>💻 Tech Lead | Senior Software Engineer [php/js] in 🌏 Poland&Ukraine </h3>
+<h3>💻 Tech Lead | Senior Software Engineer [php/js/java] in 🌏 Poland&Ukraine </h3>
 </div>
 
 ### About Me
 
 Software developer with 10+ years’ experience in web development.
 I have a first-class degree in computer science and a passion for programming and software safety.
-My primary area of expertise is planning and building PHP&JS applications of different complexity.
+My primary area of expertise is planning and building PHP&JS&Java applications of different complexity.
 
 - 👨‍ All of my public projects are available  [here](https://github.com/gaalferov?tab=repositories)
 - 💾 GIST [here](https://gist.github.com/gaalferov)
@@ -36,10 +36,11 @@ My primary area of expertise is planning and building PHP&JS applications of dif
 ### Frequently Used Languages and Tools 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
