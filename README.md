@@ -20,14 +20,14 @@
 <br>
 
 <div align="center">
-<h3>💻 Tech Lead | Senior Software Engineer [php/js/java] in 🌏 Poland&Ukraine </h3>
+<h3>💻 Tech Lead | Senior Software Engineer [php/js/java/go] in 🌏 Poland&Ukraine </h3>
 </div>
 
 ### About Me
 
 Software developer with 10+ years’ experience in web development.
 I have a first-class degree in computer science and a passion for programming and software safety.
-My primary area of expertise is planning and building PHP&JS&Java applications of different complexity.
+My primary area of expertise is planning and building PHP&JS&Java&Go applications of different complexity.
 
 - 👨‍ All of my public projects are available  [here](https://github.com/gaalferov?tab=repositories)
 - 💾 GIST [here](https://gist.github.com/gaalferov)
@@ -44,10 +44,4 @@ My primary area of expertise is planning and building PHP&JS&Java applications o
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-
-
-<br>
-
-[![Hennadii Alforov profile views](https://u8views.com/api/v1/github/profiles/3623222/views/day-week-month-total-count.svg)](https://u8views.com/github/gaalferov)
-
 
